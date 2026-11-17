@@ -1,0 +1,8 @@
+__pycache__/
+.python_deps/
+.venv/
+reports/
+.pio/
+docs/
+dataset/
+artifacts/
